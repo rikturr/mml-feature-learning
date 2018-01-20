@@ -1,5 +1,6 @@
-# mml-feature-learning
-Miami Machine Learning Meetup - Feature Learning with Matrix Factorization and Neural Networks
+# Miami Machine Learning Meetup 
+
+## Feature Learning with Matrix Factorization and Neural Networks
 
 See slides for background information.
 
