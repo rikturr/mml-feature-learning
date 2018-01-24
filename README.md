@@ -13,3 +13,9 @@ Topics that are covered:
 * Code samples using scikit-learn and keras
 
 The make-data.ipynb does NOT need to be run, the feature-learning.ipynb pulls a pre-processed dataset from S3.
+
+## Meetup info
+
+1/24/18
+
+https://www.meetup.com/Miami-Machine-Learning-Meetup/events/246682464/
