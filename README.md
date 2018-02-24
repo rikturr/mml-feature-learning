@@ -12,8 +12,15 @@ Topics that are covered:
 
 The make-data.ipynb does NOT need to be run, the feature-learning.ipynb pulls a pre-processed dataset from S3.
 
-## Meetups
+## Presentations
 
-Miami Machine Learning Meetup - 1/24/18 - https://www.meetup.com/Miami-Machine-Learning-Meetup/events/246682464/
+Slides: https://github.com/rikturr/mml-feature-learning/blob/master/slides.pdf
 
-Fort Lauderdale Machine Learning Meetup - 2/21/18 - https://www.meetup.com/Fort-Lauderdale-Machine-Learning-Meetup/events/247119469/
+### Miami Machine Learning Meetup - 1/24/18
+
+* Meetup: https://www.meetup.com/Miami-Machine-Learning-Meetup/events/246682464/
+
+### Fort Lauderdale Machine Learning Meetup - 2/21/18 
+
+* Meetup: https://www.meetup.com/Fort-Lauderdale-Machine-Learning-Meetup/events/247119469/
+* Video: https://youtu.be/50S2jHbkO8U
